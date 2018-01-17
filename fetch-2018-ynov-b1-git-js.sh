@@ -31,6 +31,10 @@ REPOSITORIES=(
   "Scheidecker.Romain=https://github.com/CHILIcranberry/git_2018_B1"
   "Guibert.Valentin=https://github.com/valentingbt/git_2018_B1"
   "Savelier.valentin=https://github.com/valentinsavelier/git_2018_B1"
+  "Reillon.Antonin=https://github.com/entow/git_2018_B1"
+  "Retiere.Evan=https://github.com/EpicZazaMan/git_2018_B1"
+  "Bernard.Alexandre=https://github.com/WarriorPercy/git_2018_B1"
+  "Halluin.Allan=https://github.com/SeidenSensei/git_2018_B1"
 )
 
 CloneRepository () {
